@@ -1,0 +1,1602 @@
+[
+  {
+    "doc_id": "doc_000",
+    "filename": "doc_000.txt",
+    "filepath": "data/docs\\doc_000.txt",
+    "doc_length": 697,
+    "hash": "8b56d1712c747155f094159a4c0f96ab4fca0c33ed73bed2562271d22e694787",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_001",
+    "filename": "doc_001.txt",
+    "filepath": "data/docs\\doc_001.txt",
+    "doc_length": 302,
+    "hash": "284f49f35c862acaca27fa8a3eb992e8f4a7c338f4cc122a0ba98f5e20bbc40f",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_002",
+    "filename": "doc_002.txt",
+    "filepath": "data/docs\\doc_002.txt",
+    "doc_length": 1390,
+    "hash": "48d3d707cd2eec077995582d8b11fb4112cbea06d8c01241f755eb9285d3b162",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_003",
+    "filename": "doc_003.txt",
+    "filepath": "data/docs\\doc_003.txt",
+    "doc_length": 774,
+    "hash": "b5c77d2ff752e2729f6d698841644c1357024c2ed1b1e82eeaa98e67ba5cb1a1",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_004",
+    "filename": "doc_004.txt",
+    "filepath": "data/docs\\doc_004.txt",
+    "doc_length": 642,
+    "hash": "8b0ed1588c5608e8cd2fcd75e002b0ad7695eb791da97daea93d8c3f3232da7f",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_005",
+    "filename": "doc_005.txt",
+    "filepath": "data/docs\\doc_005.txt",
+    "doc_length": 380,
+    "hash": "376edf448fcc3ea2c49c776315c77c1de4013bedcdff46b91bbddc7e204f14cb",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_006",
+    "filename": "doc_006.txt",
+    "filepath": "data/docs\\doc_006.txt",
+    "doc_length": 129,
+    "hash": "1860347b5c133e5708cb94b0878bea0d3f254f835849d05a80becd5d415b9e91",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_007",
+    "filename": "doc_007.txt",
+    "filepath": "data/docs\\doc_007.txt",
+    "doc_length": 747,
+    "hash": "1e3cc3e64440111ec0260fe08ca0099281986e92d326116e7cc96412bff047b5",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_008",
+    "filename": "doc_008.txt",
+    "filepath": "data/docs\\doc_008.txt",
+    "doc_length": 297,
+    "hash": "6269c7d85ab7563c7d6727562411bb8156642663c43f788fb245ce92fa4b2c2b",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_009",
+    "filename": "doc_009.txt",
+    "filepath": "data/docs\\doc_009.txt",
+    "doc_length": 398,
+    "hash": "dea3f3c11f7b400b9e6ca0ed2fbf0ec46f72362c5c31a1e4e81247838e43bf80",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_010",
+    "filename": "doc_010.txt",
+    "filepath": "data/docs\\doc_010.txt",
+    "doc_length": 223,
+    "hash": "c0b2d4e7b04ba2b5ecbf5c2316f58907db6c840a9672fbd99b71232bf87ece59",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_011",
+    "filename": "doc_011.txt",
+    "filepath": "data/docs\\doc_011.txt",
+    "doc_length": 53,
+    "hash": "8daa9efa9fe10c4cac49b2228d2f590e46dbd5669a866053abd33b114e223289",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_012",
+    "filename": "doc_012.txt",
+    "filepath": "data/docs\\doc_012.txt",
+    "doc_length": 6837,
+    "hash": "ac918fb0a6c7f9bdc85109ec410fe8acb7c5636ca657d7a7c04151e54b36e2bb",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_013",
+    "filename": "doc_013.txt",
+    "filepath": "data/docs\\doc_013.txt",
+    "doc_length": 260,
+    "hash": "775c9d2c62f0dda305261663f277b36cf1c482cc89391f61a0cdf9fab907cc64",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_014",
+    "filename": "doc_014.txt",
+    "filepath": "data/docs\\doc_014.txt",
+    "doc_length": 147,
+    "hash": "5a45f063080017dab0bf9406c8f82d4b57dbe20ea29bfb688abc3883e4fba244",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_015",
+    "filename": "doc_015.txt",
+    "filepath": "data/docs\\doc_015.txt",
+    "doc_length": 705,
+    "hash": "7f5a9b3819cf4782fe6a4e7cb782014e9d8deb676556bb3de71f2e35c696caa9",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_016",
+    "filename": "doc_016.txt",
+    "filepath": "data/docs\\doc_016.txt",
+    "doc_length": 591,
+    "hash": "4edfe101023924e27811bf7d799af8aa3833b3827ccc5f035a4489f6b6e1cdcb",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_017",
+    "filename": "doc_017.txt",
+    "filepath": "data/docs\\doc_017.txt",
+    "doc_length": 453,
+    "hash": "9657be50f8acf2bcc68e25a21f69142f63a1b738260b419b769930bb9026a9f6",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_018",
+    "filename": "doc_018.txt",
+    "filepath": "data/docs\\doc_018.txt",
+    "doc_length": 4328,
+    "hash": "82624fe83f9c4f80bd4a2c52a588f01e56f49706f7c03940dc08dbc398bcf9eb",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_019",
+    "filename": "doc_019.txt",
+    "filepath": "data/docs\\doc_019.txt",
+    "doc_length": 1559,
+    "hash": "658c52fc7579d8a4d6e9b64db8d18d4416053de5f922ab1d5a99ad43837c8bc5",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_020",
+    "filename": "doc_020.txt",
+    "filepath": "data/docs\\doc_020.txt",
+    "doc_length": 1925,
+    "hash": "6a0482782fa0c99c7125f72c2ffd16e06ed15870f12994f8a3e803e0c52348aa",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_021",
+    "filename": "doc_021.txt",
+    "filepath": "data/docs\\doc_021.txt",
+    "doc_length": 389,
+    "hash": "815c09fd477de7620b4b03baadc047a5f83a1ee7122a2c49bd19e37f95224ce2",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_022",
+    "filename": "doc_022.txt",
+    "filepath": "data/docs\\doc_022.txt",
+    "doc_length": 775,
+    "hash": "a429ef9e1329e24d93da81561237e940301a6d982a1bb773da07ce6ac09a262c",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_023",
+    "filename": "doc_023.txt",
+    "filepath": "data/docs\\doc_023.txt",
+    "doc_length": 563,
+    "hash": "9c1c92a0bbb631fec6c676fa79c311864abfbd908b5463e1010e429c6b09c010",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_024",
+    "filename": "doc_024.txt",
+    "filepath": "data/docs\\doc_024.txt",
+    "doc_length": 1113,
+    "hash": "a422feefe2671594c0d5bd5258817a8599c8137c31956f4285eeafffb57ee8a5",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_025",
+    "filename": "doc_025.txt",
+    "filepath": "data/docs\\doc_025.txt",
+    "doc_length": 201,
+    "hash": "047ceae6ad720665578bbff95fce9ea0d55b7d4b7d64dcde28c2ab5b75a770ac",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_026",
+    "filename": "doc_026.txt",
+    "filepath": "data/docs\\doc_026.txt",
+    "doc_length": 733,
+    "hash": "005d4cd6c4706161a7f316fcb5dd33ae31fd52d2dc18e99ec302e0624c0dabee",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_027",
+    "filename": "doc_027.txt",
+    "filepath": "data/docs\\doc_027.txt",
+    "doc_length": 175,
+    "hash": "0e03190ecaff1abf962307bf69236340aed3b94a80632242f95a1a6a4b89fe03",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_028",
+    "filename": "doc_028.txt",
+    "filepath": "data/docs\\doc_028.txt",
+    "doc_length": 1173,
+    "hash": "324076c7442778ac9c567be467234f19cca2014d2278de1c9b18ea28a73f37ef",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_029",
+    "filename": "doc_029.txt",
+    "filepath": "data/docs\\doc_029.txt",
+    "doc_length": 1603,
+    "hash": "8e13023e1f40855c28a60d08d73330401c2a4c0171d69c1c2bc9516e6757b16d",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_030",
+    "filename": "doc_030.txt",
+    "filepath": "data/docs\\doc_030.txt",
+    "doc_length": 828,
+    "hash": "cf5b6f28f06e8f8a60feb9a4aac3ae7f87467d936e6acaf75002eebcfcc39c8e",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_031",
+    "filename": "doc_031.txt",
+    "filepath": "data/docs\\doc_031.txt",
+    "doc_length": 216,
+    "hash": "9aa0a3ca7fe864d1811305b36591248b66c7db3495e67651fc875eb7144d76a5",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_032",
+    "filename": "doc_032.txt",
+    "filepath": "data/docs\\doc_032.txt",
+    "doc_length": 170,
+    "hash": "c7adf7b124ac3268aa745b8449878bd35fa2492d84016de23b07fbee7eae4100",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_033",
+    "filename": "doc_033.txt",
+    "filepath": "data/docs\\doc_033.txt",
+    "doc_length": 234,
+    "hash": "f5e26ffb9d80f4a9c5774cc5a7ded01070fc7028be9800f553efd476c4191f91",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_034",
+    "filename": "doc_034.txt",
+    "filepath": "data/docs\\doc_034.txt",
+    "doc_length": 192,
+    "hash": "330b103c0636102fbb9ed67b351103d5285494ecb5ec4a708d4a37d53071b315",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_035",
+    "filename": "doc_035.txt",
+    "filepath": "data/docs\\doc_035.txt",
+    "doc_length": 283,
+    "hash": "7eb578e387572ee97eda95b32d0aa1a8d4e9e5cab62f4848e5fb683e906f83e9",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_036",
+    "filename": "doc_036.txt",
+    "filepath": "data/docs\\doc_036.txt",
+    "doc_length": 274,
+    "hash": "da422156d6b625a7149a49e2c49dfd8c8840b65421ccf14fced1fe46fb1ee9b8",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_037",
+    "filename": "doc_037.txt",
+    "filepath": "data/docs\\doc_037.txt",
+    "doc_length": 171,
+    "hash": "219405178afbb11c082ef5b151870805213e7b28b97da3abad1158c7cd3591b1",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_038",
+    "filename": "doc_038.txt",
+    "filepath": "data/docs\\doc_038.txt",
+    "doc_length": 1345,
+    "hash": "d4589dc8ef87dbfaf25944bae32884bb08d45dac6bc8d5bcea72188f2ea610c7",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_039",
+    "filename": "doc_039.txt",
+    "filepath": "data/docs\\doc_039.txt",
+    "doc_length": 471,
+    "hash": "23c06aad7d39dfb492d609f9400607fe3681f1ee35afdd374729f6f902335f63",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_040",
+    "filename": "doc_040.txt",
+    "filepath": "data/docs\\doc_040.txt",
+    "doc_length": 667,
+    "hash": "b1e09921949f678def648c76d69eac61ffd26631678e55d8f37c52789a394760",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_041",
+    "filename": "doc_041.txt",
+    "filepath": "data/docs\\doc_041.txt",
+    "doc_length": 308,
+    "hash": "fc75d0026a87540b87a6fa60efbb24d7af8b48159ecdf272213becd632b938f7",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_042",
+    "filename": "doc_042.txt",
+    "filepath": "data/docs\\doc_042.txt",
+    "doc_length": 828,
+    "hash": "596f5a697b7b37ab0a2b1559e4a6d000d0eb52897d451db734d2270050f59705",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_043",
+    "filename": "doc_043.txt",
+    "filepath": "data/docs\\doc_043.txt",
+    "doc_length": 165,
+    "hash": "87fdc91d086a392192374b67a97a56f731e88e39c96d82b5c46f5d645fee6dad",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_044",
+    "filename": "doc_044.txt",
+    "filepath": "data/docs\\doc_044.txt",
+    "doc_length": 7964,
+    "hash": "8ab8ecf57441f8f7ccdcc3fe4cace0dccafce2c3924a6df1f074d6229e5a7267",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_045",
+    "filename": "doc_045.txt",
+    "filepath": "data/docs\\doc_045.txt",
+    "doc_length": 584,
+    "hash": "2df75f7b43067148a521a13e8002c031e3e882e2d387bdc208fcd1e238f0b0a9",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_046",
+    "filename": "doc_046.txt",
+    "filepath": "data/docs\\doc_046.txt",
+    "doc_length": 512,
+    "hash": "3d8c30d6e32d11832cc2b566ea387a264948b5316606412916ed6ffbf4b7da3f",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_047",
+    "filename": "doc_047.txt",
+    "filepath": "data/docs\\doc_047.txt",
+    "doc_length": 106,
+    "hash": "adeaddb9333d41332019a6732369d2039a56b6d0703be0f096ab23fa2f5af583",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_048",
+    "filename": "doc_048.txt",
+    "filepath": "data/docs\\doc_048.txt",
+    "doc_length": 1219,
+    "hash": "ebe327167e8e4cde55e50548ae8438bed3905a0efd0e80b3e9cd69c34b6a2616",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_049",
+    "filename": "doc_049.txt",
+    "filepath": "data/docs\\doc_049.txt",
+    "doc_length": 230,
+    "hash": "10d463566c91bdd58196fd713a13344ad60de21331b8ee93034fb5bd767ccb14",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_050",
+    "filename": "doc_050.txt",
+    "filepath": "data/docs\\doc_050.txt",
+    "doc_length": 436,
+    "hash": "f75d9c720756be70c68d708bba2596c77cd9a615fff67a9c88129ee2296c6acd",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_051",
+    "filename": "doc_051.txt",
+    "filepath": "data/docs\\doc_051.txt",
+    "doc_length": 523,
+    "hash": "50071e87b62e210ee18931dada19b8ae67bffc7515baf5a226cee682e6754271",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_052",
+    "filename": "doc_052.txt",
+    "filepath": "data/docs\\doc_052.txt",
+    "doc_length": 261,
+    "hash": "78fc35d66e5c4e197500119e5706fd1a864dd64a447d30bff032d147c05aa0f2",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_053",
+    "filename": "doc_053.txt",
+    "filepath": "data/docs\\doc_053.txt",
+    "doc_length": 72,
+    "hash": "fc9808cc88579540c402be76c53d01eeca07281eb745492b1ee4e66c12e014b5",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_054",
+    "filename": "doc_054.txt",
+    "filepath": "data/docs\\doc_054.txt",
+    "doc_length": 1116,
+    "hash": "49860eb68fe6609b6778deb3bdef09fcec759232fde5d872a5e30b4934cf213f",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_055",
+    "filename": "doc_055.txt",
+    "filepath": "data/docs\\doc_055.txt",
+    "doc_length": 332,
+    "hash": "60148b9a54dfc3497a18ecb67381580ac979146546f47d0f47e5238d5a22b486",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_056",
+    "filename": "doc_056.txt",
+    "filepath": "data/docs\\doc_056.txt",
+    "doc_length": 1519,
+    "hash": "0a8d4a2f9585b8af2e5683f84051d85615c996175668d9f7b62364a67362733d",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_057",
+    "filename": "doc_057.txt",
+    "filepath": "data/docs\\doc_057.txt",
+    "doc_length": 699,
+    "hash": "94f569cd2c1e658217229902abf99f0b7a7e9ccab5f1e2a8db78854b59df50ea",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_058",
+    "filename": "doc_058.txt",
+    "filepath": "data/docs\\doc_058.txt",
+    "doc_length": 316,
+    "hash": "c243822ddb150eedf8ca75baac03b774bef37423a119b715f62fd01fe0982a53",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_059",
+    "filename": "doc_059.txt",
+    "filepath": "data/docs\\doc_059.txt",
+    "doc_length": 1753,
+    "hash": "8fb3b97aaebc542191f9836142e1d1115f7d590968de17f62fef0831d827a772",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_060",
+    "filename": "doc_060.txt",
+    "filepath": "data/docs\\doc_060.txt",
+    "doc_length": 690,
+    "hash": "b4b6d08cdc327b041a4283bd72fb107c798bcf8cfa4daba14b72e196b72caf1e",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_061",
+    "filename": "doc_061.txt",
+    "filepath": "data/docs\\doc_061.txt",
+    "doc_length": 1942,
+    "hash": "12b6fcf4bcd5f6cfc726442b193453abf776f71404acc48e23a3890d92f58fc0",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_062",
+    "filename": "doc_062.txt",
+    "filepath": "data/docs\\doc_062.txt",
+    "doc_length": 271,
+    "hash": "268da254e9c1e901b0d24d571edc5bb441e9d46a83b8cc459cae3656b5798a87",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_063",
+    "filename": "doc_063.txt",
+    "filepath": "data/docs\\doc_063.txt",
+    "doc_length": 3565,
+    "hash": "d1fe710417b4387db8de04bb4e0b71ae04f024aa1a406f5bb60f1dc695833be8",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_064",
+    "filename": "doc_064.txt",
+    "filepath": "data/docs\\doc_064.txt",
+    "doc_length": 846,
+    "hash": "f1ac73eb20e705abc5784612160ae8e8b3c9e4875a61989ec61afdf0bb414d60",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_065",
+    "filename": "doc_065.txt",
+    "filepath": "data/docs\\doc_065.txt",
+    "doc_length": 272,
+    "hash": "0a5d445b20548209e731ec53be67a67e44e86a202fd23f9c066a7daa788543af",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_066",
+    "filename": "doc_066.txt",
+    "filepath": "data/docs\\doc_066.txt",
+    "doc_length": 229,
+    "hash": "2e754dee20c0f1c8809131438817144abdabb9ba124dabaedb151cfae70a0125",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_067",
+    "filename": "doc_067.txt",
+    "filepath": "data/docs\\doc_067.txt",
+    "doc_length": 369,
+    "hash": "8e0f4dd03bd6568f92bf792133b9a7dfb085ef013089c757bd34eac3f297557d",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_068",
+    "filename": "doc_068.txt",
+    "filepath": "data/docs\\doc_068.txt",
+    "doc_length": 120,
+    "hash": "f078f1d2d01b8d0a3fb11ef2f4534b406c78fd04fc090c6caca8f06c5cdeec63",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_069",
+    "filename": "doc_069.txt",
+    "filepath": "data/docs\\doc_069.txt",
+    "doc_length": 198,
+    "hash": "52ad0c0fed6556e6469d7b56a271314f285486a13fe253a01a3ca4ad6be747fd",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_070",
+    "filename": "doc_070.txt",
+    "filepath": "data/docs\\doc_070.txt",
+    "doc_length": 1123,
+    "hash": "e69ac7ed77b386b0c220c8a227820deb2ab9d6571142ac76f4b64d889e35c701",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_071",
+    "filename": "doc_071.txt",
+    "filepath": "data/docs\\doc_071.txt",
+    "doc_length": 115,
+    "hash": "df83409c146dc1a245fcfab984105431a191dfe1e76649e0cbf96369e3e26f12",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_072",
+    "filename": "doc_072.txt",
+    "filepath": "data/docs\\doc_072.txt",
+    "doc_length": 738,
+    "hash": "ff48bc9e8022991ca42c84926c0152069d86f724da838e207296c7ebc143af73",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_073",
+    "filename": "doc_073.txt",
+    "filepath": "data/docs\\doc_073.txt",
+    "doc_length": 79,
+    "hash": "d21886800be47e30c6cf09d9a4be6e109eaf980be6f41437e8b57e52a6dc4be3",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_074",
+    "filename": "doc_074.txt",
+    "filepath": "data/docs\\doc_074.txt",
+    "doc_length": 927,
+    "hash": "a58e040bf67959e9b54fa4120a5ea67b05c039e151cbd9abe6bf748588748811",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_075",
+    "filename": "doc_075.txt",
+    "filepath": "data/docs\\doc_075.txt",
+    "doc_length": 1841,
+    "hash": "06562d797efd15d81b658a4d161e7be47796627ee3f44b2a951371c82a56a3ac",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_076",
+    "filename": "doc_076.txt",
+    "filepath": "data/docs\\doc_076.txt",
+    "doc_length": 282,
+    "hash": "f49cc31e41fdb5bba19f029305671f6a9f9dfcca60fc24399b42d10aeab51c5a",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_077",
+    "filename": "doc_077.txt",
+    "filepath": "data/docs\\doc_077.txt",
+    "doc_length": 532,
+    "hash": "a27d951102086d552fdf2fb9572cab163943fdca7160f94be32522223c64c018",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_078",
+    "filename": "doc_078.txt",
+    "filepath": "data/docs\\doc_078.txt",
+    "doc_length": 476,
+    "hash": "948c89993a8f0b83fef51f66151f9ce1a5c8b418a0826a6d2bd13ea1c97fd99e",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_079",
+    "filename": "doc_079.txt",
+    "filepath": "data/docs\\doc_079.txt",
+    "doc_length": 644,
+    "hash": "50be9829b18a3e3cd54900c44accffb2876b2db96fcdac525114a8098b52753b",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_080",
+    "filename": "doc_080.txt",
+    "filepath": "data/docs\\doc_080.txt",
+    "doc_length": 75,
+    "hash": "6fd8b530cc4bb3dd9396dfb20b06b7f42ea0f41c9bb9a64b8bbc269eea2da0d3",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_081",
+    "filename": "doc_081.txt",
+    "filepath": "data/docs\\doc_081.txt",
+    "doc_length": 319,
+    "hash": "318fe16ecc452c61ccf21657173e99412a9ab6597be8d2b4ce82bc80436c0f59",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_082",
+    "filename": "doc_082.txt",
+    "filepath": "data/docs\\doc_082.txt",
+    "doc_length": 577,
+    "hash": "f0ad0d78d72710ef6bdc4f30966ba009daa1fae1f39406d249db71a716a36134",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_083",
+    "filename": "doc_083.txt",
+    "filepath": "data/docs\\doc_083.txt",
+    "doc_length": 276,
+    "hash": "7b98cb6c5e86689a4a8905acc59ad42f707e97525a8b36267c788653f81b833f",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_084",
+    "filename": "doc_084.txt",
+    "filepath": "data/docs\\doc_084.txt",
+    "doc_length": 186,
+    "hash": "c8a9bd77f953039e77db43ba76a8b628241ac96bbb3009c749f3f3d80fc6cabd",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_085",
+    "filename": "doc_085.txt",
+    "filepath": "data/docs\\doc_085.txt",
+    "doc_length": 498,
+    "hash": "77c40aef872eb00d5b25051c974401b43c7cda6431363dcdb9b98bd9c93550df",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_086",
+    "filename": "doc_086.txt",
+    "filepath": "data/docs\\doc_086.txt",
+    "doc_length": 998,
+    "hash": "8c82cb02eaea377722f1ee26a23df8d09c9f78ec01bdf1135139d789a1975d9a",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_087",
+    "filename": "doc_087.txt",
+    "filepath": "data/docs\\doc_087.txt",
+    "doc_length": 4047,
+    "hash": "033fd2d7d5fdc72ec3e3208d05b51e13c3bfe8703946e5454f49c6c8212df7a1",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_088",
+    "filename": "doc_088.txt",
+    "filepath": "data/docs\\doc_088.txt",
+    "doc_length": 97,
+    "hash": "099a138fc44c9750c39f88b448d1c70e0c04bbcb3a215172d1931eb1c7b96438",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_089",
+    "filename": "doc_089.txt",
+    "filepath": "data/docs\\doc_089.txt",
+    "doc_length": 1586,
+    "hash": "4e4754c19d5297c69d4f205b82d3cac23a8a9d0b38ec57e9cc3cfab0f34d1ff0",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_090",
+    "filename": "doc_090.txt",
+    "filepath": "data/docs\\doc_090.txt",
+    "doc_length": 141,
+    "hash": "a98d033cdbde3954741f65fd275f95d7398d1a75c451891168555e73a6e611a7",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_091",
+    "filename": "doc_091.txt",
+    "filepath": "data/docs\\doc_091.txt",
+    "doc_length": 0,
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_092",
+    "filename": "doc_092.txt",
+    "filepath": "data/docs\\doc_092.txt",
+    "doc_length": 4059,
+    "hash": "f9d82ddf010a445ab39eb5c1cd095159e93daed9a019608f34958180a3bb67bd",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_093",
+    "filename": "doc_093.txt",
+    "filepath": "data/docs\\doc_093.txt",
+    "doc_length": 486,
+    "hash": "d67ed2dbc1326e61a0f790d8ade1d63e2a2f47b23e3edd0069ceafc08b47fe00",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_094",
+    "filename": "doc_094.txt",
+    "filepath": "data/docs\\doc_094.txt",
+    "doc_length": 2026,
+    "hash": "f3a0b762b04f6f0d9b3eee0f81bfc667c8aa26b0500d2718be288ac97fea132d",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_095",
+    "filename": "doc_095.txt",
+    "filepath": "data/docs\\doc_095.txt",
+    "doc_length": 1401,
+    "hash": "fef27984e0db61482cbc279b02dc91acd06e3ddaa63b7afa591bdf962fdcb5a6",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_096",
+    "filename": "doc_096.txt",
+    "filepath": "data/docs\\doc_096.txt",
+    "doc_length": 698,
+    "hash": "73195db79124b827b575a03d2154486362bf7629e85c535ba5c9d8f929a364b3",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_097",
+    "filename": "doc_097.txt",
+    "filepath": "data/docs\\doc_097.txt",
+    "doc_length": 775,
+    "hash": "4f3dc11637ac50709d2dc7d63db29eaacfa7ecf8622dc5cfe8e4e98a81f97379",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_098",
+    "filename": "doc_098.txt",
+    "filepath": "data/docs\\doc_098.txt",
+    "doc_length": 357,
+    "hash": "364c6cd8126e2a13998cdd214ad28efc7ea994f6d2072b48441d0503248be5d7",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_099",
+    "filename": "doc_099.txt",
+    "filepath": "data/docs\\doc_099.txt",
+    "doc_length": 32,
+    "hash": "7acc930a66c085ca13d8c2c08dfce81bb68dfdfeb7f1144db46832a73abae010",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_100",
+    "filename": "doc_100.txt",
+    "filepath": "data/docs\\doc_100.txt",
+    "doc_length": 51,
+    "hash": "ec92773b524de8729494f5b3eb3f1c54a3af14c5e86d57a99f4a7ab499dbd09e",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_101",
+    "filename": "doc_101.txt",
+    "filepath": "data/docs\\doc_101.txt",
+    "doc_length": 224,
+    "hash": "1a70afc33a7288dda6d9258c2bbd32a30ad8a25c8ad417d1f05e4148af93b695",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_102",
+    "filename": "doc_102.txt",
+    "filepath": "data/docs\\doc_102.txt",
+    "doc_length": 824,
+    "hash": "c9657c7cd1383b048a935cff2c05b6122bb6170dd5a7779e1691d4d97cca84d1",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_103",
+    "filename": "doc_103.txt",
+    "filepath": "data/docs\\doc_103.txt",
+    "doc_length": 222,
+    "hash": "fd8fb8b310d2aae3719be190f649c2b341b662892a62e5a4b4747f1c2507cb1b",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_104",
+    "filename": "doc_104.txt",
+    "filepath": "data/docs\\doc_104.txt",
+    "doc_length": 0,
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_105",
+    "filename": "doc_105.txt",
+    "filepath": "data/docs\\doc_105.txt",
+    "doc_length": 184,
+    "hash": "36ecf962a427e05be151154d89ba190cd16b3bba8a8ed9b82e348dbee4992f99",
+    "category": "rec.sport.hockey"
+  },
+  {
+    "doc_id": "doc_106",
+    "filename": "doc_106.txt",
+    "filepath": "data/docs\\doc_106.txt",
+    "doc_length": 237,
+    "hash": "fcc533be67f48f3a24feb1d8988e05bbac6bbee579580a2cc53ea8a10f4cd088",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_107",
+    "filename": "doc_107.txt",
+    "filepath": "data/docs\\doc_107.txt",
+    "doc_length": 890,
+    "hash": "d4a7ab847b0f7490912fe05148c8b47023f5d680edc7a4379989aa903b3b9c30",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_108",
+    "filename": "doc_108.txt",
+    "filepath": "data/docs\\doc_108.txt",
+    "doc_length": 205,
+    "hash": "890053dd73c257a7acfc0f6251bfcdfc65bec625c2b2c23dc3f6d59732e1de9e",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_109",
+    "filename": "doc_109.txt",
+    "filepath": "data/docs\\doc_109.txt",
+    "doc_length": 462,
+    "hash": "49178dcf94ee44a0f3f6c81f2eecfbbad217a4686a652b5899df951e56ca7d2b",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_110",
+    "filename": "doc_110.txt",
+    "filepath": "data/docs\\doc_110.txt",
+    "doc_length": 337,
+    "hash": "e858eb2f562cc8af52782bf1ee3c80c8feda49c2551f2eba283c35b39991cb0e",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_111",
+    "filename": "doc_111.txt",
+    "filepath": "data/docs\\doc_111.txt",
+    "doc_length": 1633,
+    "hash": "ce0fb827f8adec0c6938597e8851e229bd2854294a0037b30bd740a2a7fd097d",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_112",
+    "filename": "doc_112.txt",
+    "filepath": "data/docs\\doc_112.txt",
+    "doc_length": 2055,
+    "hash": "a338a78fcb8a6c8355e8df61dd21b6abb051a3d573a86a178da31586d43fa9d3",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_113",
+    "filename": "doc_113.txt",
+    "filepath": "data/docs\\doc_113.txt",
+    "doc_length": 441,
+    "hash": "211eddd47890ed0117768734e6cc5e99719952692553860ca8b5f5f80e8585dc",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_114",
+    "filename": "doc_114.txt",
+    "filepath": "data/docs\\doc_114.txt",
+    "doc_length": 6658,
+    "hash": "fcbb573211e3ad326a38c9ebba8de28ef64a27ae5a2e0a1cf2f00aa65be52c48",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_115",
+    "filename": "doc_115.txt",
+    "filepath": "data/docs\\doc_115.txt",
+    "doc_length": 2245,
+    "hash": "0714976218d91e6c846d744188601bf188735f3f18769c4150fdfa722c8b72c8",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_116",
+    "filename": "doc_116.txt",
+    "filepath": "data/docs\\doc_116.txt",
+    "doc_length": 503,
+    "hash": "81e8b0df0551fc1cbc0c7f65a5440382f78f7b08eae3537ea5ff021d2a691e00",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_117",
+    "filename": "doc_117.txt",
+    "filepath": "data/docs\\doc_117.txt",
+    "doc_length": 318,
+    "hash": "5a24d754e4d0a5d34b6013373ccdfefa64b8a0bde1c583ff93e39058dde5e7fd",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_118",
+    "filename": "doc_118.txt",
+    "filepath": "data/docs\\doc_118.txt",
+    "doc_length": 405,
+    "hash": "73a4f90adac7403f00336f49ebf9c200d1523e829eb885ebcfe76622c3fd1a1b",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_119",
+    "filename": "doc_119.txt",
+    "filepath": "data/docs\\doc_119.txt",
+    "doc_length": 70,
+    "hash": "44acd7b0210b7b8ef5122eb915acb6c251f9aa26e88c605f3dd60cd90a3eea54",
+    "category": "comp.sys.mac.hardware"
+  },
+  {
+    "doc_id": "doc_120",
+    "filename": "doc_120.txt",
+    "filepath": "data/docs\\doc_120.txt",
+    "doc_length": 1224,
+    "hash": "2fdf3ef0c4163e6f065658d57e88cdad623d2925d43304ed10fc84482c22f682",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_121",
+    "filename": "doc_121.txt",
+    "filepath": "data/docs\\doc_121.txt",
+    "doc_length": 2493,
+    "hash": "17f1609980284c4c88234e9e84e260a223a3d65c974e07b9f073c86bc4f76e07",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_122",
+    "filename": "doc_122.txt",
+    "filepath": "data/docs\\doc_122.txt",
+    "doc_length": 1223,
+    "hash": "bda5a8effbe601e20c4a1db1b7986c123963f1a283a3ea66b06b8bdc24f4e118",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_123",
+    "filename": "doc_123.txt",
+    "filepath": "data/docs\\doc_123.txt",
+    "doc_length": 1864,
+    "hash": "caa12e33a16a8d21c853c319e5bba4802e400404941d1c65ecd9e311c29170a6",
+    "category": "sci.electronics"
+  },
+  {
+    "doc_id": "doc_124",
+    "filename": "doc_124.txt",
+    "filepath": "data/docs\\doc_124.txt",
+    "doc_length": 480,
+    "hash": "f87022da42a117e41f4d8cfb623b0f35854d488e689ab1b731aa66ca0d079f67",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_125",
+    "filename": "doc_125.txt",
+    "filepath": "data/docs\\doc_125.txt",
+    "doc_length": 78,
+    "hash": "74f00afc274990b133dfc972c55303b097b14207a684300b2556b2baf2bbf624",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_126",
+    "filename": "doc_126.txt",
+    "filepath": "data/docs\\doc_126.txt",
+    "doc_length": 816,
+    "hash": "ee65384b95367114bba9c2797af34b936b093fbb2e4b65ad3a20c20f5d5bfd1f",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_127",
+    "filename": "doc_127.txt",
+    "filepath": "data/docs\\doc_127.txt",
+    "doc_length": 161,
+    "hash": "68159c35c4235762fa76400073a8626f9e13c12d5ace3943a0644204c1b00f99",
+    "category": "talk.politics.mideast"
+  },
+  {
+    "doc_id": "doc_128",
+    "filename": "doc_128.txt",
+    "filepath": "data/docs\\doc_128.txt",
+    "doc_length": 744,
+    "hash": "69bc5bd7a566875a2ed937ced3f4e9cc1027612689e9cb1799e454df91c9794c",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_129",
+    "filename": "doc_129.txt",
+    "filepath": "data/docs\\doc_129.txt",
+    "doc_length": 245,
+    "hash": "54f588bd06b58c5a6432bee9993f35d72a94897c392d0c01759845bd493a5111",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_130",
+    "filename": "doc_130.txt",
+    "filepath": "data/docs\\doc_130.txt",
+    "doc_length": 528,
+    "hash": "2dd0964f0aa792f4422ef3bf8d14b4fa7f1d294e4ab9dd05e3b26ede68a02f60",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_131",
+    "filename": "doc_131.txt",
+    "filepath": "data/docs\\doc_131.txt",
+    "doc_length": 686,
+    "hash": "884f296c256db1c14e53362987b2d59ab4a1011067c43c7c34b9a0146be73bc5",
+    "category": "comp.os.ms-windows.misc"
+  },
+  {
+    "doc_id": "doc_132",
+    "filename": "doc_132.txt",
+    "filepath": "data/docs\\doc_132.txt",
+    "doc_length": 83,
+    "hash": "463a9c06459638b514b6795046fa7eee75427ce310185a1ba69c69587405d757",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_133",
+    "filename": "doc_133.txt",
+    "filepath": "data/docs\\doc_133.txt",
+    "doc_length": 652,
+    "hash": "e7960b5116ae830620340d8ded2ebf97d1f64ad2eaab08e703646423006e72a6",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_134",
+    "filename": "doc_134.txt",
+    "filepath": "data/docs\\doc_134.txt",
+    "doc_length": 210,
+    "hash": "a6290d871092a98a82f6da29726da473eacb4cfcbe32804c19450c52618a89d7",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_135",
+    "filename": "doc_135.txt",
+    "filepath": "data/docs\\doc_135.txt",
+    "doc_length": 1784,
+    "hash": "8a84a541b17da4111e68f0623d3c999c869c15dfc2c2cd8f603354234af86106",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_136",
+    "filename": "doc_136.txt",
+    "filepath": "data/docs\\doc_136.txt",
+    "doc_length": 407,
+    "hash": "7c7455b2182e7b735b0334d29a19d3b48554f7513ebb945457c5796531ec2c25",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_137",
+    "filename": "doc_137.txt",
+    "filepath": "data/docs\\doc_137.txt",
+    "doc_length": 841,
+    "hash": "c2064aeeb2883564f3cebf44e9e2c169fde08c40a10c647596b70260831f64e5",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_138",
+    "filename": "doc_138.txt",
+    "filepath": "data/docs\\doc_138.txt",
+    "doc_length": 324,
+    "hash": "f2691212027031cc315e0e41c3ed49a42857abfda442dfce2826447c7f469da6",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_139",
+    "filename": "doc_139.txt",
+    "filepath": "data/docs\\doc_139.txt",
+    "doc_length": 2004,
+    "hash": "add982eb3d34487b1569fae81cb4c2bd7a7f35450a0d93a60afab4761a7a486a",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_140",
+    "filename": "doc_140.txt",
+    "filepath": "data/docs\\doc_140.txt",
+    "doc_length": 345,
+    "hash": "29746705d278be1b9c2f30d98635f677e41eb7b824b6315938c8afb52f2ded26",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_141",
+    "filename": "doc_141.txt",
+    "filepath": "data/docs\\doc_141.txt",
+    "doc_length": 65,
+    "hash": "db96bb8edfe4f87765e080358ae7be9c770e889f5e8ec0ee43cb0fdbb7ee23db",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_142",
+    "filename": "doc_142.txt",
+    "filepath": "data/docs\\doc_142.txt",
+    "doc_length": 536,
+    "hash": "3a317ddc86fdc95b1480402ddfa28e3014052933dc95a2d9fb5729f00b274975",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_143",
+    "filename": "doc_143.txt",
+    "filepath": "data/docs\\doc_143.txt",
+    "doc_length": 66,
+    "hash": "f6a59e6f610d2fcf9c35f164514cb04824a0a00aed5564219b55e3a9fa03eda5",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_144",
+    "filename": "doc_144.txt",
+    "filepath": "data/docs\\doc_144.txt",
+    "doc_length": 215,
+    "hash": "aa4e48786e5b8a0c907089f24c7945c56e3fbae58410bc47e3b418e03a37c416",
+    "category": "rec.motorcycles"
+  },
+  {
+    "doc_id": "doc_145",
+    "filename": "doc_145.txt",
+    "filepath": "data/docs\\doc_145.txt",
+    "doc_length": 459,
+    "hash": "03c2e37c8fd96d3abc27b79eb207a018c1ab23013d401b110a67ae6bc66b4076",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_146",
+    "filename": "doc_146.txt",
+    "filepath": "data/docs\\doc_146.txt",
+    "doc_length": 417,
+    "hash": "622c71e925a7fe0a18b28db1bfe548250f77ba12950c69eef8040dae343e49c8",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_147",
+    "filename": "doc_147.txt",
+    "filepath": "data/docs\\doc_147.txt",
+    "doc_length": 276,
+    "hash": "e65bc5bbf8e72f5f8bd7fcddfebf2b2666d891678081c5429587641276330a36",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_148",
+    "filename": "doc_148.txt",
+    "filepath": "data/docs\\doc_148.txt",
+    "doc_length": 313,
+    "hash": "070b59e24ad20fd6d56f0ea5d94b0c5778d5e0d86761def5ada85c7aaa530fda",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_149",
+    "filename": "doc_149.txt",
+    "filepath": "data/docs\\doc_149.txt",
+    "doc_length": 1022,
+    "hash": "d478c9f49305745991ef400515afd0c6419d6c50509cf60185fd3848365aa2f0",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_150",
+    "filename": "doc_150.txt",
+    "filepath": "data/docs\\doc_150.txt",
+    "doc_length": 482,
+    "hash": "9f31f06d76e906cb62aad871fc15d28b38b5e429389d6d97ed054b18b545fe8e",
+    "category": "comp.graphics"
+  },
+  {
+    "doc_id": "doc_151",
+    "filename": "doc_151.txt",
+    "filepath": "data/docs\\doc_151.txt",
+    "doc_length": 0,
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "category": "comp.sys.ibm.pc.hardware"
+  },
+  {
+    "doc_id": "doc_152",
+    "filename": "doc_152.txt",
+    "filepath": "data/docs\\doc_152.txt",
+    "doc_length": 288,
+    "hash": "ef102477aface5be935b25aa7740d91f2662efb9a65be7e2b6d6508b70895dee",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_153",
+    "filename": "doc_153.txt",
+    "filepath": "data/docs\\doc_153.txt",
+    "doc_length": 292,
+    "hash": "9ba02ec4bae72d594056743b6dc07d676f24b6aeca0326de153f0102586dc314",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_154",
+    "filename": "doc_154.txt",
+    "filepath": "data/docs\\doc_154.txt",
+    "doc_length": 687,
+    "hash": "1984bdad270989c2e7ddfffd5fa70819fea7becc9bce430338b6be1ce7f83d5a",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_155",
+    "filename": "doc_155.txt",
+    "filepath": "data/docs\\doc_155.txt",
+    "doc_length": 506,
+    "hash": "b896214e4c59f84d336e3e02475ef37fe01d5a30b8a402ed76c110cb6e45857e",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_156",
+    "filename": "doc_156.txt",
+    "filepath": "data/docs\\doc_156.txt",
+    "doc_length": 443,
+    "hash": "e4bc1795a1a234028f0a684a3fc0f75900e9ed2c5735a5a9a8d64fe048cb18d2",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_157",
+    "filename": "doc_157.txt",
+    "filepath": "data/docs\\doc_157.txt",
+    "doc_length": 366,
+    "hash": "17ad9d121efa934def188b9aac0bbe735ebebf921f980e704014d2ebddd04e45",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_158",
+    "filename": "doc_158.txt",
+    "filepath": "data/docs\\doc_158.txt",
+    "doc_length": 20,
+    "hash": "6d6b1fe93dc8bf8474bdd3d54b24f386b29ebd06b0456d429a06a5d51b18d654",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_159",
+    "filename": "doc_159.txt",
+    "filepath": "data/docs\\doc_159.txt",
+    "doc_length": 1476,
+    "hash": "85578bd714fe4978c398d5b5f19e4754272f9cedc5d2b6cbfcf3e3f6f95a81f3",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_160",
+    "filename": "doc_160.txt",
+    "filepath": "data/docs\\doc_160.txt",
+    "doc_length": 3062,
+    "hash": "b4714a11638e1d5ebac0c2209eb0625c7ce3f1a904f23adb32a7579b03a3f972",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_161",
+    "filename": "doc_161.txt",
+    "filepath": "data/docs\\doc_161.txt",
+    "doc_length": 97,
+    "hash": "40ff0f47d7fa3720a945b8ae3cf3096158294691a740f6b6324a1a74796222ff",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_162",
+    "filename": "doc_162.txt",
+    "filepath": "data/docs\\doc_162.txt",
+    "doc_length": 268,
+    "hash": "69705ec5e9cfe0f04c9bf03df933666deee19491f0214f56260eabcb61fd058b",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_163",
+    "filename": "doc_163.txt",
+    "filepath": "data/docs\\doc_163.txt",
+    "doc_length": 3981,
+    "hash": "c899de99c604c4af840bb0d4ff8da98ba01fd886c36ca8b1edd95c31e956da5f",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_164",
+    "filename": "doc_164.txt",
+    "filepath": "data/docs\\doc_164.txt",
+    "doc_length": 3182,
+    "hash": "a640ca99b7eef778910a562e5d8d9d412701644212a4b47969e238e1823e7095",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_165",
+    "filename": "doc_165.txt",
+    "filepath": "data/docs\\doc_165.txt",
+    "doc_length": 438,
+    "hash": "0c70261b102bc75c8dae532199f80731c0ed852b39009e7ba6c142c19fdf26ff",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_166",
+    "filename": "doc_166.txt",
+    "filepath": "data/docs\\doc_166.txt",
+    "doc_length": 3,
+    "hash": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_167",
+    "filename": "doc_167.txt",
+    "filepath": "data/docs\\doc_167.txt",
+    "doc_length": 0,
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "category": "sci.crypt"
+  },
+  {
+    "doc_id": "doc_168",
+    "filename": "doc_168.txt",
+    "filepath": "data/docs\\doc_168.txt",
+    "doc_length": 885,
+    "hash": "a7f8014588780892755a939d23b3f62680c0d40766a2624cc5d1d70d3a217ddd",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_169",
+    "filename": "doc_169.txt",
+    "filepath": "data/docs\\doc_169.txt",
+    "doc_length": 1113,
+    "hash": "8fc616183438fed314f82a722f6046760d1a4439a54a0ac5e2d6a461bec6ecf9",
+    "category": "talk.religion.misc"
+  },
+  {
+    "doc_id": "doc_170",
+    "filename": "doc_170.txt",
+    "filepath": "data/docs\\doc_170.txt",
+    "doc_length": 3914,
+    "hash": "57a0ad474547ebff3336f6d552b06f024cd899de0dc4e9d4956d13bcca767413",
+    "category": "soc.religion.christian"
+  },
+  {
+    "doc_id": "doc_171",
+    "filename": "doc_171.txt",
+    "filepath": "data/docs\\doc_171.txt",
+    "doc_length": 342,
+    "hash": "90a97b8b3c38a712d2dfee50b647838e2b198e1264293628691492c44bece2a3",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_172",
+    "filename": "doc_172.txt",
+    "filepath": "data/docs\\doc_172.txt",
+    "doc_length": 505,
+    "hash": "202802e6e978b5a8c546a545e6791042e5aff7d1b66bb9668d475579b27c9c89",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_173",
+    "filename": "doc_173.txt",
+    "filepath": "data/docs\\doc_173.txt",
+    "doc_length": 597,
+    "hash": "4db1286c19760c02498343347dd7844af684b1ae7649358b9da8e3a5a14c725e",
+    "category": "comp.windows.x"
+  },
+  {
+    "doc_id": "doc_174",
+    "filename": "doc_174.txt",
+    "filepath": "data/docs\\doc_174.txt",
+    "doc_length": 94,
+    "hash": "73d064700cdd93dd2f7c791cd95be8fa3d7d9116a5320be7da76c2a7fc90102b",
+    "category": "rec.autos"
+  },
+  {
+    "doc_id": "doc_175",
+    "filename": "doc_175.txt",
+    "filepath": "data/docs\\doc_175.txt",
+    "doc_length": 40,
+    "hash": "1b5e6d77340d1dd5314637a5b47ddd03afa18522c051adf195dd037b9e9ef0af",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_176",
+    "filename": "doc_176.txt",
+    "filepath": "data/docs\\doc_176.txt",
+    "doc_length": 509,
+    "hash": "f534a5decf197ac8261f7e1d3c5ca81416233acbd6d7d32209bb68321c0bd65b",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_177",
+    "filename": "doc_177.txt",
+    "filepath": "data/docs\\doc_177.txt",
+    "doc_length": 217,
+    "hash": "722b0a33ef3e35f1e3077dd9117b2ea1511aa182209074d338da22cb80a91c34",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_178",
+    "filename": "doc_178.txt",
+    "filepath": "data/docs\\doc_178.txt",
+    "doc_length": 1114,
+    "hash": "571e49e434d1bfdad0ae9d315d796cfb0c42bb77909a1a39cb911b341fb11545",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_179",
+    "filename": "doc_179.txt",
+    "filepath": "data/docs\\doc_179.txt",
+    "doc_length": 198,
+    "hash": "2d9daa187115f86045abeaddba2c85eeacb9cb1e7e4a0a775b1233c17e833358",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_180",
+    "filename": "doc_180.txt",
+    "filepath": "data/docs\\doc_180.txt",
+    "doc_length": 574,
+    "hash": "e68959f1614e23a101a5cde861902529f034c616ab7dd40ff5c2cb1cd3c0728c",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_181",
+    "filename": "doc_181.txt",
+    "filepath": "data/docs\\doc_181.txt",
+    "doc_length": 175,
+    "hash": "d26bd400730a9fb0750a556afacc863bb1872a9f9cc7e7c4e679e8646891a7a1",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_182",
+    "filename": "doc_182.txt",
+    "filepath": "data/docs\\doc_182.txt",
+    "doc_length": 624,
+    "hash": "7664f29b35db10d7605c534f1f38f2a8d91077df282b3569878b7efd4d56feba",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_183",
+    "filename": "doc_183.txt",
+    "filepath": "data/docs\\doc_183.txt",
+    "doc_length": 373,
+    "hash": "ef2e15e18095171441b2e0876eae0191e4bdd58173282509c50871f4264ecaf3",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_184",
+    "filename": "doc_184.txt",
+    "filepath": "data/docs\\doc_184.txt",
+    "doc_length": 204,
+    "hash": "c588ee08674394708eab32e0ca509c28bbccbc9bd93a9ec3a47d6f7028d2f300",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_185",
+    "filename": "doc_185.txt",
+    "filepath": "data/docs\\doc_185.txt",
+    "doc_length": 363,
+    "hash": "b2e0ae26ccce491264be0447fdcdd9fef090368fad67ad75a8f2fa9ab23aef61",
+    "category": "misc.forsale"
+  },
+  {
+    "doc_id": "doc_186",
+    "filename": "doc_186.txt",
+    "filepath": "data/docs\\doc_186.txt",
+    "doc_length": 1363,
+    "hash": "0b506abecf1047d50c43ceacfd555cd4274d24c1e6717c09c2ef5a20d9624448",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_187",
+    "filename": "doc_187.txt",
+    "filepath": "data/docs\\doc_187.txt",
+    "doc_length": 96,
+    "hash": "2827a6d0c0acca9808f8e5043459f56c02aafea33aa9f835732d08ccf5fd8b0b",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_188",
+    "filename": "doc_188.txt",
+    "filepath": "data/docs\\doc_188.txt",
+    "doc_length": 415,
+    "hash": "2038c549806e4de44957fe8fb13f064b6a5c53457492fa1e858e2a27054d0dde",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_189",
+    "filename": "doc_189.txt",
+    "filepath": "data/docs\\doc_189.txt",
+    "doc_length": 651,
+    "hash": "0a7c37d51c55867fa2fa8b4dd0f44c3ea5995adf691083d0f595264c0481d5c8",
+    "category": "sci.space"
+  },
+  {
+    "doc_id": "doc_190",
+    "filename": "doc_190.txt",
+    "filepath": "data/docs\\doc_190.txt",
+    "doc_length": 61,
+    "hash": "3bff316dd8b8dbeb08941efd09d16efadd01d8ea72592f8412553e04474e75de",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_191",
+    "filename": "doc_191.txt",
+    "filepath": "data/docs\\doc_191.txt",
+    "doc_length": 33,
+    "hash": "3b49559898bd14ae852f518c7613a7f7d5985b51c2c884ad141fd094861e770b",
+    "category": "sci.med"
+  },
+  {
+    "doc_id": "doc_192",
+    "filename": "doc_192.txt",
+    "filepath": "data/docs\\doc_192.txt",
+    "doc_length": 858,
+    "hash": "55a4aa756b2ae22a5067a488dc2db72044d4e2c768d948496e0c4791c5fa6eab",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_193",
+    "filename": "doc_193.txt",
+    "filepath": "data/docs\\doc_193.txt",
+    "doc_length": 0,
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "category": "talk.politics.guns"
+  },
+  {
+    "doc_id": "doc_194",
+    "filename": "doc_194.txt",
+    "filepath": "data/docs\\doc_194.txt",
+    "doc_length": 2639,
+    "hash": "8734453e3b517ea42baa79476ab9b6340ff97e41142f30a85cd155cdbf1642dc",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_195",
+    "filename": "doc_195.txt",
+    "filepath": "data/docs\\doc_195.txt",
+    "doc_length": 135,
+    "hash": "dee5916c8d581f36fa71f7d103fb3c97d3243735aac539fe148f07e573e09ba1",
+    "category": "alt.atheism"
+  },
+  {
+    "doc_id": "doc_196",
+    "filename": "doc_196.txt",
+    "filepath": "data/docs\\doc_196.txt",
+    "doc_length": 3511,
+    "hash": "d545a46e817cbce71e36bde5a8c1d617ada7abdf3459789c2c7f366a6552d400",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_197",
+    "filename": "doc_197.txt",
+    "filepath": "data/docs\\doc_197.txt",
+    "doc_length": 6779,
+    "hash": "6668edddc04ebb525c507310c760c63a98e79c9e1181d651d0cb3da2b9016e24",
+    "category": "talk.politics.misc"
+  },
+  {
+    "doc_id": "doc_198",
+    "filename": "doc_198.txt",
+    "filepath": "data/docs\\doc_198.txt",
+    "doc_length": 6,
+    "hash": "8fcc364911b772f56030b25ebdadebab68acc38569b85df5249cf886c6055d18",
+    "category": "rec.sport.baseball"
+  },
+  {
+    "doc_id": "doc_199",
+    "filename": "doc_199.txt",
+    "filepath": "data/docs\\doc_199.txt",
+    "doc_length": 91,
+    "hash": "aaa048152974ebe82e6b156df3d5e3a254e0f8db419f3f16e0022b80299566d0",
+    "category": "talk.politics.misc"
+  }
+]

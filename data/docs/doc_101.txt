@@ -1,0 +1,1 @@
+hi!... i am searching for packages that could handle multi-page gif files... are there any on some ftp servers? ill appreciate one which works on pc either on dos or windows 3.03.1. but any package works on unix will be ok..

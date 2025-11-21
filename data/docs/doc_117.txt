@@ -1,0 +1,1 @@
+i heard somewhere cant name the source that tempest does not necessarily pick-up just crts, but it can pick up emissions from almost any chip. if that is true, the kind monitor would not make any difference becuase everything on the screen can be picked-up from the video controller. can anybody verify or refute this?

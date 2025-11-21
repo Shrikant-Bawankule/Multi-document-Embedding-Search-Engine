@@ -1,0 +1,1 @@
+hijaak claims to convert .dxf to .iff, although hijaak claims some stuff that i have never gotten to work for example, not long ago i tried to convert some .iff files from an amiga video toaster using crossdos, so my pc could read the disks int targa files. hijaak made some gorgeous 1.5 megabyte targa files from the .iffs -- all totally black!
